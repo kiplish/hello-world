@@ -1,3 +1,3 @@
 # hello-world
 learning
-This is just earning to work with github
+This is just learning to work with github
